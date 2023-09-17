@@ -1,0 +1,77 @@
+## 个人学习
+- name: FT中文网
+  url: https://ftchinese.com/
+  img: /images/logos/zw.jpg
+  description: 全球商业、经济、市场、管理和科技新闻
+- name: 沪江英语
+  url: https://www.hjenglish.com/
+  img: https://www.mbian.com/mbian/2023/03/31/69d16bb04c3ade6ea86a440e7b026b33.png
+  description: 英语学习网站
+- name: Teacher Training Videos
+  url: https://www.teachertrainingvideos.com/
+  img: /images/logos/ttv.png
+  description: 教师培训视频
+- name: Teaching English
+  url: https://www.teachingenglish.org.uk/
+  img: /images/logos/Teaching English.png
+  description: 英国文化协会，教育培训
+- name: Teacher Created Materials
+  url: https://www.teachercreatedmaterials.com/
+  img: /images/logos/tcm.png
+  description: 全科教材出版
+- name: edX
+  url: https://www.edx.org/
+  img: /images/logos/edx.png
+  description: 技能培养，课程学习
+- name: 中国知网
+  url: https://www.cnki.net/
+  img: /images/logos/zhi.png
+  description: 中国学术文献、外文文献、学位论文、工具书等资源
+- name: American English
+  url: https://americanenglish.state.gov/
+  img: /images/logos/ae.png
+  description: 英语教学论坛
+- name: Te Kete Ipurangi
+  url: https://seniorsecondary.tki.org.nz/
+  img: /images/logos/tki.jpg
+  description: 科目教学指南之家
+- name: Home Study Centre
+  url: https://www.oxfordhomestudy.com/
+  img: /images/logos/hsc.png
+  description: 牛津家庭学习中心
+- name: TESOL Course
+  url: https://www.tesol.academy/
+  img: /images/logos/tesol.png
+  description: 教师课程培训
+- name: Scribd
+  url: https://www.scribd.com/
+  img: /images/logos/scribd.png
+  description: 在线阅读，英文有声读物
+- name: thesaurus.com
+  url: https://www.thesaurus.com
+  img: /images/logos/thesaurus.png
+  description: 英文文字游戏
+- name: Lexile
+  url: https://lexile.com
+  img: /images/logos/Lexile.png
+  description: 阅读资源，提高阅读技能
+- name: National Geographic Kids
+  url: https://www.natgeokids.com
+  img: /images/logos/natgeokids.png
+  description: 国家地理|儿童频道，游戏，视频等
+- name: Read Write Think
+  url: https://www.readwritethink.org/
+  img: /images/logos/rwt.png
+  description: 课程计划、教学材料和专业学习资源
+- name: Blogs at UMass Amherst
+  url: https://blogs.umass.edu
+  img: /images/logos/Blogs at UMass Amherst.png
+  description: 麻省umass分校的博客
+- name: Learning English with Oxford
+  url: https://learningenglishwithoxford.com
+  img: /images/logos/lewo.png
+  description: 牛津大学出版社面向英语学习者的官方博客
+- name: Coursera
+  url: https://www.coursera.org/
+  img: /images/logos/coursera.png
+  description: 5400多门课程、专业证书和学位，促进职业发展

@@ -1,0 +1,49 @@
+## 英文教学
+- name: Literacy Learn
+  url: https://literacylearn.com/
+  img: /images/logos/Literacy Learn.png
+  description: 教材资源，可打印
+- name: SuperSimple
+  url: https://supersimple.com/
+  img: https://supersimple.com/wp-content/uploads/logo-home.png
+  description: 低龄儿童英语启蒙，游戏，视频等
+- name: Pinkfong
+  url: https://www.pinkfong.com/
+  img: https://www.mbian.com/mbian/2023/03/31/af04df874202a0d04b615014b2a71975.jpeg
+  description: 英文儿歌
+- name: Mother Goose Club
+  url: https://www.mothergooseclub.com
+  img: https://www.mbian.com/mbian/2023/03/31/6a94ff823ce7350c31560de32c9cbd0b.png
+  description: 教材、家长资源，视频、歌曲
+- name: Education
+  url: https://www.education.com
+  img: https://cdn.education.com/i/logo/favicon-192x192.png
+  description: 工作表，游戏，课程计划等
+- name: Teachers Pay Teachers
+  url: https://www.teacherspayteachers.com
+  img: /images/logos/TPT.png
+  description: 教育资源分享
+- name: twisty noodle
+  url: https://twistynoodle.com/
+  img: /images/logos/twistynoodle.png
+  description: 自定义卡片，工作表，迷你书等
+- name: Kizclub
+  url: http://www.kizclub.com
+  img: /images/logos/kizclub.png
+  description: 教学资源，故事道具等
+- name: Kids Learning Ville
+  url: https://www.kidslearningville.com
+  img: /images/logos/klv.png
+  description: 课程教材，视频、游戏教材
+- name: K12 Reader
+  url: https://www.k12reader.com
+  img: /images/logos/k12.png
+  description: 可打印的教材，卡片，工作表
+- name: ESL-Galaxy
+  url: https://www.esl-galaxy.com/
+  img: https://www.mbian.com/mbian/2023/03/31/ac8a44decc686db1ad577d70ccff56c5.png
+  description: 教材、活动、游戏、语法材料及在线练习
+- name: Game to Learn English
+  url: https://www.gamestolearnenglish.com
+  img: https://www.mbian.com/mbian/2023/03/31/52ec0cbf46d9bc947605e4307be6fd84.png
+  description: 英文游戏，教材，词汇，短语资源
