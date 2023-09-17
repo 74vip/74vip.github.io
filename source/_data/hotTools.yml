@@ -1,9 +1,0 @@
-## 常用工具
-- name: Library Genesis+
-  url: https://libgen.gs/index.php
-  img: /images/logos/LibraryGenesis+.png
-  description: 电子书
-- name: PDF Convert
-  url: https://www.pdfconvertonline.com/
-  img: /images/logos/pdf.png
-  description: PDF转换
